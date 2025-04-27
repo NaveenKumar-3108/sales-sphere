@@ -1,5 +1,1 @@
-2025/04/26 18:07:22 {localhost 3306 root Root sys mysql mysql} qqmysql1 mysql
-2025/04/26 18:07:22 mysql root:Root@tcp(localhost:3306)/sys?parseTime=true&loc=Local mysql
-2025/04/26 18:07:22 LoadSalesData(+)
-2025/04/26 18:07:22 Schedule started: ProcessCsv will run at 2025-04-27 06:07:22 AM (after 12 hours)
-2025/04/26 18:07:22 LoadSalesData(-)
+
