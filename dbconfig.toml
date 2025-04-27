@@ -1,0 +1,7 @@
+MysqlServer= "localhost"
+MysqlPort= 3306
+MysqlUser= "root"
+MysqlPassword = "Root"
+MysqlDatabase = "sys"
+MysqlDBType = "mysql"
+
